@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700|Oswald:200,400,700');
+
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/brands.css');
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/fontawesome.css');
+
+:root {
+  /* COLORS */
+  --color__primary: #6040C0;
+  --color__primary--light: #8060D0;
+  --color__primary--extra-light: #D0D0F0;
+  --color__secondary: white;
+  --color__accent: #FFA020;
+  --color__accent--light: #FFC880;
+  --color__text-primary: black;
+  --color__text-secondary: white;
+  --color__text-accent: var(--color__accent-light);
+
+  /* FONTS */
+  --font__header: 'Oswald', sans-serif;
+  --font__copy: 'Lato', sans-serif;
+  --font-size__site-header: 3rem;
+  --font-size__site-footer: 0.66rem;
+  --font-size__site-nav: 1.33rem;
+  --font-size__page-header: 2rem;
+  --font-size__page-header--small: 1.5rem;
+  --font-size__card-header: 1.67rem;
+  --font-size__card-header--small: 1.5rem;
+  --font-size__copy: 1rem;
+  --font-size__caption: 0.83rem;
+  --font-weight__header: 400;
+  --font-weight__header--light: 200;
+  --font-weight__header--heavy: 700;
+  --font-weight__copy: 300;
+  --font-weight__copy--medium: 400;
+  --font-weight__copy--heavy: 700;
+}

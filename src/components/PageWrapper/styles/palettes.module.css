@@ -1,0 +1,31 @@
+.primary {
+	background-color: var(--color__primary);
+	color: var(--color__text-secondary);
+}
+
+.secondary {
+	background-color: var(--color__secondary);
+	color: var(--color__text-primary);
+}
+
+.primary a:link {
+	color: var(--color__secondary);
+}
+
+.primary a:visited {
+	color: var(--color__primary--extra-light);
+}
+
+.secondary a:link {
+	color: var(--color__primary);
+}
+
+.secondary a:visited {
+	color: var(--color__primary--light)
+}
+
+.primary a:hover, .primary a:focus,
+.secondary a:hover, .secondary a:focus {
+	color: var(--color__accent);
+	text-decoration: none;
+}

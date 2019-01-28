@@ -1,0 +1,35 @@
+.header {
+	font-family: var(--font__header);
+	font-weight: var(--font-weight__header--heavy);
+	font-size: var(--font-size__page-header);
+	letter-spacing: -0.03rem;
+}
+  
+.header--small {
+	position: absolute;
+	vertical-align: super;
+	font-size: var(--font-size__page-header--small);
+	font-weight: var(--font-weight__header--light);
+}
+
+.footer {
+	text-align: center;
+}
+  
+.view-all-link {
+	font-family: var(--font__header);
+	font-weight: var(--font-weight__header--heavy);
+	font-size: var(--font-size__copy);
+}
+
+
+/* MEDIA-SPECIFIC LAYOUTS */
+@media screen and (max-width: 62em) {
+	.header {
+		margin-top: 0;
+	}
+
+	.header--small {
+		position: initial;
+	}
+}

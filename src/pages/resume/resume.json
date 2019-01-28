@@ -1,0 +1,319 @@
+{
+    "basics": {
+        "name": "Matt Gawarecki",
+        "label": "Software Engineer · Aspiring Servant Leader",
+        "picture": "",
+
+        "summary": "A quality-minded software engineer with passions for mentorship and healthy team culture, in search of new opportunities as a technical leader.",
+
+        "location": {
+            "city": "Franklin",
+            "region": "Tennessee",
+            "countryCode": "US"
+        },
+
+        "email": "matt.gawarecki@gmail.com",
+        "phone": "+16153787838",
+        "website": "https://mattgawarecki.com/",
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "mattgawarecki",
+                "url": "https://linkedin.com/in/mattgawarecki/"
+            },
+            {
+                "network": "Twitter",
+                "username": "mattgawarecki",
+                "url": "https://twitter.com/@mattgawarecki/"
+            }
+        ]
+    },
+    "skills": [
+        {
+            "name": "Automated Testing",
+            "keywords": [
+                "JUnit",
+                "Protractor",
+                "Selenium",
+                "unit testing"
+            ]
+        },
+        {
+            "name": "Back-End Development",
+            "keywords": [
+                "Java",
+                "Kotlin",
+                "message queueing",
+                "MongoDB",
+                "NoSQL",
+                "Python",
+                "Spring",
+                "SQL"
+            ]
+        },
+        {
+            "name": "Data Engineering",
+            "keywords": [
+                "BeautifulSoup",
+                "Matplotlib",
+                "NumPy",
+                "Pandas",
+                "Python",
+                "Scrapy",
+                "Seaborn",
+                "web scraping"
+            ]
+        },
+        {
+            "name": "Front-End Development",
+            "keywords": [
+                "AngularJS (1.x)",
+                "CSS",
+                "JavaScript",
+                "React",
+                "SASS",
+                "Webpack"
+            ]
+        },
+        {
+            "name": "Operations",
+            "keywords": [
+                "Amazon Web Services (AWS)",
+                "AWS CloudFormation",
+                "AWS Lambda",
+                "continuous delivery",
+                "continuous integration",
+                "Jenkins",
+                "Linux",
+                "Serverless"
+            ]
+        },
+        {
+            "name": "Web Services",
+            "keywords": [
+                "API architecture",
+                "JAX-RS",
+                "REST",
+                "SOAP"
+            ]
+        }
+    ],
+    "work": [
+        {
+            "company": "TeleTracking",
+            "position": "Software Engineer",
+            "website": "https://teletracking.com/",
+            "location": {
+                "city": "Franklin",
+                "region": "Tennessee",
+                "countryCode": "US"
+            },
+            "startDate": "2018-02-01",
+            "skills": [
+                "Amazon Web Services (AWS)",
+                "AngularJS (1.x)",
+                "Java",
+                "JavaScript"
+            ],
+            "summary": "",
+            "highlights": [
+                "*Improved quality and speed of onboarding* by documenting setup processes and following up to remove obstacles",
+                "*Mentor and give constructive feedback to two junior engineers* via discussion, pair programming, and code review",
+                "*Simplified debugging and provided operational visibility* by building two dashboards to monitor 25 microservices"
+            ]
+        },
+        {
+            "company": "Digital Reasoning",
+            "position": "Full Stack Software Engineer",
+            "website": "https://digitalreasoning.com/",
+            "location": {
+                "city": "Franklin",
+                "region": "Tennessee",
+                "countryCode": "US"
+            },
+            "startDate": "2016-01-01",
+            "endDate": "2018-01-01",
+            "skills": [
+                "Java",
+                "Kotlin"
+            ],
+            "summary": "",
+            "highlights": [
+                "*Led efforts to optimize team processes* by identifying trends, facilitating meetings, and documenting consensus",
+                "*Built and maintained RESTful web services in Kotlin* to drive one of the company’s most anticipated products"
+            ]
+        },
+        {
+            "company": "Change Healthcare",
+            "position": "Software Engineer",
+            "website": "https://changehealthcare.com/",
+            "location": {
+                "city": "Brentwood",
+                "region": "Tennessee",
+                "countryCode": "US"
+            },
+            "startDate": "2015-01-01",
+            "endDate": "2016-01-01",
+            "skills": [
+                "Java",
+                "JavaScript",
+                "React"
+            ],
+            "summary": "",
+            "highlights": [
+                "*Mentored and worked side-by-side with two junior developers* who were each promoted within a year",
+                "*Worked with teammates to create and refine useful patterns* for several new, mission-critical micro-services",
+                "*Engineered a geo-aware search bar with as-you-type suggestions* for use across company's flagship product",
+                "*Integrated authentication for multiple apps* with a single sign-on solution leveraging SAML and OAuth v2"
+            ]
+        },
+        {
+            "company": "Cigna-HealthSpring",
+            "position": "[Contract] Applications Development Sr. Specialist",
+            "website": "https://cigna.com/medicare/cigna-healthspring/",
+            "location": {
+                "city": "Nashville",
+                "region": "Tennessee",
+                "countryCode": "US"
+            },
+            "startDate": "2014-01-01",
+            "endDate": "2015-01-01",
+            "skills": [
+                ".NET",
+                "C#",
+                "SQL"
+            ],
+            "summary": "",
+            "highlights": [
+                "*Improved response time and reduced memory usage by up to 50%* by refactoring a critical WCF service",
+                "*Worked to future-proof* a legacy Web Forms site by integrating MVC and allowing the two to run side-by-side",
+                "*Developed and maintained two public-facing applications* responsible for 30K+ visitors/mth"
+            ]
+        },
+        {
+            "company": "ICA Informatics",
+            "position": "Applications Developer &ndash; Interoperability",
+            "website": "http://ica-carealign.com/",
+            "location": {
+                "city": "Nashville",
+                "region": "Tennessee",
+                "countryCode": "US"
+            },
+            "startDate": "2011-01-01",
+            "endDate": "2014-01-01",
+            "skills": [
+                ".NET",
+                "C#",
+                "Jenkins"
+            ],
+            "summary": "",
+            "highlights": [
+                "*Made diagnostics easier* by implementing a comprehensive, automatic message logging system",
+                "*Reduced maintenance costs* through promotion and implementation of service-oriented architecture (SOA)",
+                "*Increased product testability* with inversion-of-control and dependency injection across two major projects",
+                "*Tightened testing and release cycles* by introducing continuous integration and deployment"
+            ]
+        },
+        {
+            "company": "Southeastern Book Company",
+            "position": "Software Developer",
+            "location": {
+                "city": "Murray",
+                "region": "Kentucky",
+                "countryCode": "US"
+            },
+            "startDate": "2009-01-01",
+            "endDate": "2011-01-01",
+            "skills": [
+                ".NET",
+                "C#",
+                "SQL"
+            ],
+            "summary": "",
+            "highlights": [
+                "*Helped generate millions in sales revenue* by creating and maintaining several critical internal applications",
+                "*Optimized warehouse operations across the company* by creating a mobile web-based inventory system",
+                "*Streamlined the sales process* by creating web service-enabled applications to facilitate wholesale transactions"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Murray State University",
+            "area": "Computer Science",
+            "studyType": "Bachelor of Science",
+            "startDate": "2006-01-01",
+            "endDate": "2009-01-01",
+            "gpa": "3.98"
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Data for Democracy",
+            "position": "Volunteer",
+            "website": "https://datafordemocracy.org/",
+            "startDate": "2016-12-01",
+            "skills": [
+                "Matplotlib",
+                "Numpy",
+                "Pandas",
+                "Python",
+                "Scrapy"
+            ],
+            "summary": "",
+            "highlights": [
+                "*Co-led a project* to identify trends in Medicare drug spending",
+                "*Helped build datasets for political scientific research* by scraping text from a well-known far-right online community",
+                "*Named a Featured Volunteer* (November 2018)"
+            ]
+        },
+        {
+            "organization": "Murray State University",
+            "position": "Member, CSIS Advisory Board",
+            "website": "https://murraystate.edu/academics/CollegesDepartments/CollegeOfBusiness/Programs/CSIS/AdvisoryBoard.aspx",
+            "startDate": "2014-05-01",
+            "highlights": [
+                "*Meet annually to discuss degree curricula* and foster alignment with industry trends",
+                "*Observe and judge graduate/undergraduate project presentations* in a competition with cash prizes"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Timothy Gragg",
+            "position": "Software Engineer",
+            "date": "2018-11-02",
+            "reference": "Matt was my desk neighbor at my first job after graduating from a boot camp. Having zero professional experience, and entering into a working with a large enterprise application was very intimidating, but Matt was always willing to help me when I needed it. He was instrumental in my development as a software engineer. More than just a very talented software engineer, Matt is a fantastic mentor. Whether helping me or another coworker, Matt always used the opportunity as a teaching moment."
+        },
+        {
+            "name": "Robert Cunningham",
+            "position": "Senior Software Engineer",
+            "date": "2014-08-04",
+            "reference": "Matt is a true software engineer. He will not shy away from a difficult challenge and is always working to ensure that the source code is more efficient. As a team member, he is willing to help others. I learned a considerable amount from Matt and really enjoyed debating ideas."
+        },
+        {
+            "name": "Jeffrey Druin",
+            "position": "DevOps Manager/Architect",
+            "date": "2014-08-01",
+            "reference": "Matt is an excellent developer who is also operations focused. He is very willing to explore ideas that benefit the company, but are not centered in a pure development paradigm. I highly recommend Matt for any position that requires critical, operational, or out of the box thinking on a development team."
+        },
+        {
+            "name": "Alex Cavnar",
+            "position": "Software Development Consultant",
+            "date": "2014-07-31",
+            "reference": "It was awesome having the opportunity to work with Matt. He's really sharp, and he picked up new things very quickly. He also showed great initiative in keeping up with technology trends and understanding how they could be helpful in our environment. That lead him to become a key player in a lot of development projects we took on. He shares the same passion for the Agile methodology that I do. I got to work with Matt when he was more of a junior level developer. Over the years I watched him grow into a really solid developer that I'd be more than happy to work with again."
+        },
+        {
+            "name": "Scott Rogers",
+            "position": "Senior ColdFusion Engineer",
+            "date": "2012-05-09",
+            "reference": "Matt was the hardest working, most conscientious members of our entire IT Department. During the time I had the privilege to work with him I had 100% confidence in his ability to accomplish any task. He applies his intelligence to the task at hand to ask insightful questions and make sure he was providing the most complete solution. Given the opportunity, I would hire Matt again without hesitation."
+        },
+        {
+            "name": "Patrick Greenwell",
+            "position": "Senior Software Engineer",
+            "date": "2011-05-02",
+            "reference": "Matt is an extremely talented and hard worker who dedicates himself to his work. He constantly is looking on ways to improve and refine his already stellar work and skills to benefit the company as a whole. He is someone who is quickly able to adapt to changing needs and always is on the up and up on the using the latest technology to provide quick efficient solutions to problems and requests."
+        }
+    ]
+}
