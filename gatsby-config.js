@@ -15,7 +15,7 @@ module.exports = {
         path: '/blog/all'
       },
       {
-        active: false,
+        active: true,
         title: 'about me',
         path: '/about/me'
       },

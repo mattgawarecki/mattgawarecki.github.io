@@ -2,11 +2,13 @@ const dateFns = require('date-fns');
 const { createFilePath } = require('gatsby-source-filesystem');
 
 const createBlogPages = require('./gatsby-apis/create-blog-pages');
+const createSitePages = require('./gatsby-apis/create-site-pages');
 
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions;
 
   createBlogPages(graphql, createPage);
+  createSitePages(graphql, createPage);
 };
 
 exports.onCreateNode = ({ node, actions, getNode }) => {

@@ -1,0 +1,25 @@
+.page {
+	max-width: 50em;
+}
+
+.title {
+	font-family: var(--font__header);
+	font-weight: var(--font-weight__header--heavy);
+	font-size: var(--font-size__page-header);
+}
+
+.page h1 {
+	font-family: var(--font__header);
+	font-weight: var(--font-weight__header);
+	font-size: var(--font-size__page-header--small);
+}
+
+.page p {
+	font-family: var(--font__copy);
+	font-weight: var(--font-weight__copy);
+}
+
+.page img {
+	max-width: 300px;
+	max-height: 300px;
+}
