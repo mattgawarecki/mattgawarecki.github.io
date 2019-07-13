@@ -1,4 +1,4 @@
-const siteUrl = 'https://mattgawarecki.com/';
+const siteUrl = 'https://mattg.dev/';
 
 module.exports = {
   siteMetadata: {
